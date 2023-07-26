@@ -1,0 +1,133 @@
+h1 {
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+header h1 {
+    text-align: center;
+    color: #FFF;
+}
+header {
+    background-color: #757575;
+    padding: 15px;
+    width: 1100px;
+}
+header img {
+    width: 281px;
+    height: 85px;
+    flex-shrink: 0;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    mix-blend-mode: darken;
+}
+.h1main {
+    color: #000;
+font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+ text-align: center;
+}
+h3 {
+    text-align: center;
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+
+}
+.photo {
+    width:1100px;
+height: 300px;
+flex-shrink: 0;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.iphonepro {
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #000;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    width: 500px;
+    text-align: center;
+}
+.img {
+    width: 400px;
+    height: 500px;
+}
+
+.iphone14 {
+    float: left;
+    width: 500px;
+    height: 500px;
+}
+body {
+    width: 1000px;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.iphone {
+    justify-content: flex-start;
+    display: flex;
+    text-align: center;
+}
+
+.iphoneimg {
+    width: 700px;
+    height: 500px;
+}
+
+.ipad {
+    width: 500px;
+}
+.watchimg {
+    width: 500px;
+    height: 400px;
+}
+.ipad1 {
+    justify-content: flex-start;
+    display: flex;
+}
+.airpods {
+    width: 500px;
+}
+.tv4k {
+    width: 800px;
+    height: 400px;
+}
+.tv {
+    display: flex;
+    justify-content: flex-start;
+}
+.airimg {
+    width: 500px;
+    height: 400px;
+}
+.watc {
+    width: 60px;
+}
+
+.ipadimg {
+    height: 400px;
+}
+.products1 {
+    text-decoration: none;
+    color: rgb(110, 110, 115);
+    display: flex;
+    justify-content:  center;
+    padding: 10px;
+}
+.products {
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 200px;
+    text-align: center;
+
+}
+footer {
+    background-color: rgb(245, 245, 247);
+    width: 600px;
+    padding: 10px;
+    font-weight: 400;
+    border-radius: 30px;
+}
+.security {
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    color: rgb(110, 110, 115);
+    font-weight: 400;
+    padding: 10px;
+}
