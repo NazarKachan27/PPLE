@@ -10,7 +10,7 @@ header h1 {
 header {
     background-color: #757575;
     padding: 15px;
-    width: 1500px;
+    width: 1300px;
 }
 header img {
     width: 281px;
@@ -55,7 +55,7 @@ background: url(<path-to-image>), lightgray 50% / cover no-repeat;
     height: 500px;
 }
 body {
-    width: 1500px;
+    width: 1300px;
     font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .iphone {
